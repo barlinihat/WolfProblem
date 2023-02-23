@@ -1,0 +1,15 @@
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\bin\Debug\net6.0\WolfProblem.exe
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\bin\Debug\net6.0\WolfProblem.deps.json
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\bin\Debug\net6.0\WolfProblem.runtimeconfig.json
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\bin\Debug\net6.0\WolfProblem.dll
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\bin\Debug\net6.0\WolfProblem.pdb
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\obj\Debug\net6.0\WolfProblem.csproj.AssemblyReference.cache
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\obj\Debug\net6.0\WolfProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\obj\Debug\net6.0\WolfProblem.AssemblyInfoInputs.cache
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\obj\Debug\net6.0\WolfProblem.AssemblyInfo.cs
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\obj\Debug\net6.0\WolfProblem.csproj.CoreCompileInputs.cache
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\obj\Debug\net6.0\WolfProblem.dll
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\obj\Debug\net6.0\refint\WolfProblem.dll
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\obj\Debug\net6.0\WolfProblem.pdb
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\obj\Debug\net6.0\WolfProblem.genruntimeconfig.cache
+C:\Users\nihat\source\repos\WolfProblem\WolfProblem\obj\Debug\net6.0\ref\WolfProblem.dll
