@@ -1,2 +1,2 @@
 # WolfProblem
- Test case.  Bu repo on degerlendirme asamasi icin oluşturulmuştur.  Indirilen proje dosyasını build ettikten sonra console'da calistirabilirsiniz.  Detaylar ve proje dokumani mailde iletilecektir.
+Test case. This repo has been created for the pre-evaluation phase. After you build the downloaded project file, you can run it on the console. Details and project document will be sent by e-mail.
